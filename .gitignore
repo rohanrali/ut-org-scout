@@ -1,0 +1,15 @@
+# secrets
+.env
+*.env
+# scraped data and outputs (contain other people's public profile data)
+cache/
+**/cache/
+*.xlsx
+*.xls
+*.pdf
+*.zip
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/

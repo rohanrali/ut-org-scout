@@ -1,0 +1,7 @@
+{
+  "search_rounds": 3,
+  "results_per_search": 5,
+  "good_enough_score": 8,
+  "parallel_runs": 5,
+  "deep_posts_per_org": 30
+}
